@@ -1,0 +1,9 @@
+*~
+/container/ros2_workspace/build
+/container/ros2_workspace/install
+/container/ros2_workspace/log
+notebooks/data
+notebooks/cifar_net.pth
+.ipynb_checkpoints/
+notebooks/__pycache__/
+.DS_Store
